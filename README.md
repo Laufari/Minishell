@@ -1,1 +1,3 @@
-#Minishell en progreso
+#Minishell
+
+Proyecto en progreso
